@@ -1,4 +1,4 @@
-# Cschool 42 C++ Modules 00-09
+# School 42 C++ Modules 00-09
 
 A complete collection of the C++ modules from the 42 School curriculum. This series introduces Object-Oriented Programming (OOP) concepts.
 
